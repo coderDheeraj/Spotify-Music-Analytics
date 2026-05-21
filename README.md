@@ -4,7 +4,7 @@ A professional music analytics dashboard built in **Microsoft Excel** using **Pi
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project focuses on analyzing Spotify music data to discover trends in:
 
@@ -20,7 +20,7 @@ The project is built inside a single Excel workbook containing separate sheets f
 
 #  Dashboard Preview
 
-![Spotify Dashboard](dashboard-preview.png)
+![Spotify Dashboard](Dashboard.png)
 
 ---
 
@@ -57,11 +57,11 @@ The project is built inside a single Excel workbook containing separate sheets f
 
 ---
 
-# 📥 Dataset Source
+#  Dataset Source
 
 The dataset used in this project was taken from Kaggle:
 
-🔗 [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+ [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 ---
 
