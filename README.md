@@ -172,10 +172,9 @@ Through this project, I learned:
 #  Connect With Me
 
 ### LinkedIn
-Add your LinkedIn profile link here
-
+[LinkedIn profile ](https://www.linkedin.com/in/dheeraj-jangid-b24178340/)
 ### GitHub
-Add your GitHub profile link here
+[Github Profile](https://github.com/coderDheeraj)
 
 ---
 
